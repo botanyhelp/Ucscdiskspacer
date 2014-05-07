@@ -1,0 +1,6 @@
+Program to report total size, in bytes, of UCSC genome browser databases
+It is useful to estimate how large the databases are before you download. 
+
+Use it like this for a zebrafish and human assembly:
+
+python ucsc_disk_spacer.py danRer5 hg19
